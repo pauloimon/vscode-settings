@@ -1,0 +1,49 @@
+{
+  "docker.containers.description": [
+    "Status"
+  ],
+  "docker.containers.label": "ContainerName",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.organizeImports": true
+  },
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 2.5,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "trailing",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "editor.smoothScrolling": true,
+  "editor.stickyScroll.enabled": false,
+  "explorer.autoReveal": false,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": true,
+  "peacock.affectActivityBar": false,
+  "peacock.affectSashHover": false,
+  "peacock.affectTitleBar": false,
+  "peacock.showColorInStatusBar": false,
+  "projectManager.git.baseFolders": [
+    "~/Projetos"
+  ],
+  "search.useIgnoreFiles": false,
+  "tailwind-fold.autoFold": false,
+  "tailwind-fold.foldStyle": "QUOTES",
+  "tailwind-fold.showTailwindImage": false,
+  "tailwind-fold.unfoldIfLineSelected": true,
+  "terminal.integrated.enablePersistentSessions": false,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.smoothScrolling": true,
+  "thunder-client.editorFontSize": 14,
+  "thunder-client.sidebar.hideDateModified": true,
+  "workbench.list.smoothScrolling": true,
+  "workbench.panel.defaultLocation": "right",
+  "workbench.startupEditor": "none",
+  "workbench.tree.indent": 20
+}
