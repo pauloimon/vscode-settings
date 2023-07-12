@@ -16,8 +16,14 @@
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "trailing",
   "editor.rulers": [
-    80,
-    120
+    {
+      "column": 80,
+      "color": "#333333"
+    },
+    {
+      "column": 120,
+      "color": "#333333"
+    }
   ],
   "editor.smoothScrolling": true,
   "editor.stickyScroll.enabled": false,
