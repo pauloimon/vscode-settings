@@ -33,6 +33,7 @@
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
   "git.autofetch": true,
+  "gitlens.currentLine.enabled": false,
   "peacock.affectActivityBar": false,
   "peacock.affectSashHover": false,
   "peacock.affectTitleBar": false,
