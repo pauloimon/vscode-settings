@@ -27,6 +27,8 @@
   ],
   "editor.smoothScrolling": true,
   "editor.stickyScroll.enabled": false,
+  "errorLens.margin": "1rem",
+  "errorLens.messageBackgroundMode": "none",
   "explorer.autoReveal": false,
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
