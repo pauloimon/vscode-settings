@@ -43,6 +43,9 @@
   "projectManager.git.baseFolders": [
     "~/Projetos"
   ],
+  "search.exclude": {
+    "**/node_modules": false
+  },
   "search.useIgnoreFiles": false,
   "tailwind-fold.autoFold": false,
   "tailwind-fold.foldStyle": "QUOTES",
