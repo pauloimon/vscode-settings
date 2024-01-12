@@ -55,6 +55,12 @@
   "terminal.integrated.enablePersistentSessions": false,
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.smoothScrolling": true,
+  "thunder-client.defaultHeaders": [
+    {
+      "name": "Accept",
+      "value": "application/json"
+    }
+  ],
   "thunder-client.editorFontSize": 14,
   "thunder-client.sidebar.defaultTab": "Collections",
   "thunder-client.sidebar.layout": "compact",
