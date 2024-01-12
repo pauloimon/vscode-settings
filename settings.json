@@ -15,6 +15,7 @@
   "editor.guides.bracketPairs": true,
   "editor.lineHeight": 2.5,
   "editor.minimap.enabled": false,
+  "editor.renderLineHighlight": "all",
   "editor.renderWhitespace": "trailing",
   "editor.rulers": [
     {
