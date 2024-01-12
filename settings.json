@@ -5,8 +5,8 @@
   "docker.containers.label": "ContainerName",
   "editor.bracketPairColorization.enabled": true,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.organizeImports": true
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "explicit"
   },
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.fontFamily": "JetBrains Mono",
