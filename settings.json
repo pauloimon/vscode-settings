@@ -1,4 +1,5 @@
 {
+  "color-highlight.markerType": "dot-before",
   "docker.containers.description": [
     "Status"
   ],
